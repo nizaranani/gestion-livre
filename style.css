@@ -1,0 +1,23 @@
+/* Style personnalisé pour le projet Gestion des Livres */
+
+body {
+  background-color: #f5f5f5;
+
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+  color: #8c0f0f;
+}
+
+/* Style du message d'erreur */
+#messageErreur {
+  color: red;
+  font-weight: bold;
+}
+
+/* Petit espace pour les boutons d'action dans le tableau */
+.btn-action {
+  margin-right: 5px;
+}
